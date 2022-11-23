@@ -1,0 +1,22 @@
+{
+  "name": "engsoftwareii_pratica06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MetodosCalcular.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciusr01/EngSoftwareII_Pratica06.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viniciusr01/EngSoftwareII_Pratica06/issues"
+  },
+  "homepage": "https://github.com/viniciusr01/EngSoftwareII_Pratica06#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
